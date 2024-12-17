@@ -40,7 +40,6 @@
 </head>
 <body>
     <h1>Group22 - Project Setup</h1>
-
     <h2>Required Libraries</h2>
     <p>Ensure you have the following dependencies installed:</p>
     <pre>
@@ -91,7 +90,6 @@
         urllib3==2.2.3
         Werkzeug==3.1.3
     </pre>
-
     <h2>How to Run the Project</h2>
     <div class="steps">
         <ol>
