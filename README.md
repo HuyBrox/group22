@@ -4,39 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group22 - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            color: #333;
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            overflow-x: auto;
-        }
-        code {
-            color: #e74c3c;
-            font-family: Consolas, "Courier New", monospace;
-        }
-        ul {
-            list-style-type: square;
-        }
-        .steps {
-            margin-top: 10px;
-        }
-        footer {
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
+   
 </head>
 <body>
     <h1>Group22 - Project Setup</h1>
